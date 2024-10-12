@@ -19,16 +19,18 @@ https://devsec-blog.com/
 
 Damn-Vulnerable-RESTaurant-API-Game tips
 
-install Docker desktop
-close Docker desktop - restart Docker desktop with admin rights
-run commands:
-git clone https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game.git
-cd Damn-Vulnerable-RESTaurant-API-Game
-./start_app.sh
+install Docker desktop  
+close Docker desktop - restart Docker desktop with admin rights  
 
-Browse to  http://localhost:8080/docs#/
-Browse to  http://localhost:8080/openapi.json
-Download the json file
+run commands:  
+git clone https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game.git  
+cd Damn-Vulnerable-RESTaurant-API-Game  
+./start_app.sh  
 
-Download and install an API UI tool like Postman or Insomnia
-From Postmand or Insomnia, use the import feature to load in API configs from the openapi.json file
+Browse to http://localhost:8080/docs#/  
+
+Browse to http://localhost:8080/openapi.json  
+Download the json file  
+
+Download and install an API UI tool like Postman or Insomnia  
+From Postmand or Insomnia, use the import feature to load in API configs from the openapi.json file  
