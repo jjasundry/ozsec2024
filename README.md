@@ -33,4 +33,4 @@ Browse to http://localhost:8080/openapi.json
 Download the json file  
 
 Download and install an API UI tool like Postman or Insomnia  
-From Postmand or Insomnia, use the import feature to load in API configs from the openapi.json file  
+From Postman or Insomnia, use the import feature to load in API configs from the openapi.json file  
